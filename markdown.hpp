@@ -27,10 +27,10 @@
 #ifndef IMGUI_MD_H
 #define IMGUI_MD_H
 
-#include "imgui.h"
-#include "imgui_internal.h"
 #include "md4c.h"
 #include <SDL2/SDL.h>
+#include <imgui.h>
+#include <imgui_internal.h>
 #include <string>
 #include <vector>
 
